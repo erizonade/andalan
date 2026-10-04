@@ -4,3 +4,4 @@ body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.65 system-ui,-app
 main{max-width:720px;margin:0 auto;padding:24px 16px 48px}
 h1{font-size:1.6rem;margin:0 0 4px}h2{font-size:1.15rem;margin-top:28px}
 .muted{color:var(--muted);font-size:.9rem}a{color:var(--accent)}
+.id{color:var(--muted);margin-top:-8px}li .id{display:block;margin-top:0}
